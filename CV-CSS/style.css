@@ -1,0 +1,44 @@
+.font {
+  font-family: sans-serif;
+  width: 100%;
+}
+
+.topbar {
+  border-top: 10px solid #005889;
+}
+
+.blue {
+  color: #005889;
+}
+
+.black {
+  color: black;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.flex {
+  display: flex;
+}
+
+.contact {
+  padding-left: 50px;
+  font-size: samll;
+}
+
+.category {
+  padding-left: 50px;
+}
+
+.name {
+  font-size: larger;
+  padding-top: 10px;
+}
+
+.space {
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 30px;
+}
